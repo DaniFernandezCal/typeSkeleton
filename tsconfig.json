@@ -1,0 +1,9 @@
+{
+    "files": [],
+    "references": [
+        { "path": "./src" },
+        { "path": "./tests/integration" },
+        { "path": "./tests/acceptance" },
+        { "path": "./tests/unit" }
+    ]
+}
